@@ -1,0 +1,8 @@
+name: PvPWatch
+version: 1.0.0
+main: com.github.r0306.pvpwatch.pvpwatch
+permissions:
+    pvpwatch.exempt:
+        description: Allows user to bypass this plugin's features.
+author: Dev Nation
+authors: [r0306, garrett2smart87, fred302]
